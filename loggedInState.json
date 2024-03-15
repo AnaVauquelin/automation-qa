@@ -1,0 +1,390 @@
+{
+  "cookies": [
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "1710328874.554.28.830008|3441ec1aa9342998970d396d8e7f98b5",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1710501674.163863,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_locale",
+      "value": "en",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1713007274.164487,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_is_logged",
+      "value": "false",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1713007275.278731,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_cb7e47345e",
+      "value": "JTdCJTdE",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1741864881,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.725258681.1710328882",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710415283,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "initialTrafficSource",
+      "value": "utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1713439283,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmzzses",
+      "value": "1",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-227424672-1",
+      "value": "1",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710328943,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_id",
+      "value": "d8582873-c66f-4e84-8d99-cc29dbf0930a",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1744888884.353761,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_create_t",
+      "value": "1710328884353",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_use_t",
+      "value": "1710328884353",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBTGCORS",
+      "value": "TvdH2B5NRXQdDuA2klF+UaeOp9kEH+eZY5OO9QlhvUlFKmtpU++u/fcMHvh1+Z422nnD9j8weTsncpciIUyhvgb4H4PkGA3ipMD/OLUKDyDdXsxCFmZ5R7Ewh9+EGbjD9R8VfWPETNQncE8JDeZ5Xa1Nn6kD759xvAFXrYYYhJsz",
+      "domain": "api.smartico.ai",
+      "path": "/",
+      "expires": 1710933686.305795,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "PZuCgsLVQ3eqb3rLiDPppRhH4mvt3lpAGoaro96jJnpLoLxNUJlVP2Le5+3O8vLITQpc7nHdFs9kT8gdRJc6aSAhWxeK1gTeOre2434WO+MDuYnN2od3HMwkVDQ6",
+      "domain": "api.smartico.ai",
+      "path": "/",
+      "expires": 1710933686.305866,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_EM22E96TGD",
+      "value": "GS1.1.1710328887.1.0.1710328887.0.0.0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744888887.625025,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1460224200.1710328882",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744888896.340109,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "zuuid",
+      "value": "1abd66e0-36d9-4ba2-8470-f69e54e3feca",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.009678,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1710328887",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864887.674923,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid_lu",
+      "value": "1710328887",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.009744,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid_k",
+      "value": "1",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.009767,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid_k_lu",
+      "value": "1710328887",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.009784,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cm4",
+      "value": "!bidswitch,479658087",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.0098,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bss",
+      "value": "!bidswitch,479586087",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741864888.009817,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_srt_ses.cd98",
+      "value": "*",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710330693,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_srt_id.cd98",
+      "value": "d6055d27-f986-4178-9696-8873115f9a62.1710328893.1.1710328893..9202ed3f-1f86-4bb4-b144-b9b812142237....0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744888893.264899,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1710328894",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741864894.333511,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1710328894",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741864894.653195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "2f8ccfce-c697-412b-a8e4-68abb06b560d",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741864894.653127,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KRTBCOOKIE_466",
+      "value": "16530-a2941b23-6950-4f28-aee4-0c6070a7e73e",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1718104895.683148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PugT",
+      "value": "1710328895",
+      "domain": ".pubmatic.com",
+      "path": "/",
+      "expires": 1712920895.6832,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDSYNC",
+      "value": "173n~2h9n",
+      "domain": ".analytics.yahoo.com",
+      "path": "/",
+      "expires": 1741864895.862975,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "A3",
+      "value": "d=AQABBD-M8WUCECPK4w0pim5C8JyosdcDpTkFEgEBAQHd8mX7ZVkAAAAA_eMAAA&S=AQAAAt9paY08vR2qqj_Zn3NCJ_E",
+      "domain": ".yahoo.com",
+      "path": "/",
+      "expires": 1741886495.863,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_7Q8ZMQJCT2",
+      "value": "GS1.1.1710328896.1.0.1710328896.60.0.0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744888896.33987,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_cb7e47345e",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJmYjIzNDQ0OS1lMDNkLTRjMmEtOTY4YS0zZjc4NzcyZWQxM2YlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzEwMzI4ODgxOTM2JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcxMDMyODkwMDgxMSUyQyUyMmxhc3RFdmVudElkJTIyJTNBNyU3RA==",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1741864900,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://bluechip.io",
+      "localStorage": [
+        {
+          "name": "__smartico_login_tracker1",
+          "value": "{\"dt\":1710328887201,\"ext_user_id\":\"Chippy\"}"
+        },
+        {
+          "name": "__smartico_identify_last_time",
+          "value": "1710328886746"
+        },
+        {
+          "name": "amp-exp-$default_instance-n2WHnS",
+          "value": "{\"app-popup\":{\"key\":\"hide\"},\"restrict-game-wager\":{\"key\":\"active\"},\"show-sidebar-casino-datetime\":{\"key\":\"show\"}}"
+        },
+        {
+          "name": "persist:profile",
+          "value": "{\"data\":\"null\",\"balance\":\"null\",\"brandTermsUuid\":\"\\\"\\\"\",\"playerAcceptedTermsUuid\":\"\\\"\\\"\",\"lastPublicTermsUuid\":\"\\\"\\\"\",\"emailVerificationCountdownStart\":\"0\",\"phoneVerificationCountdownStart\":\"0\",\"verificationCountDownDuration\":\"180000\",\"avatar\":\"{\\\"title\\\":\\\"\\\",\\\"id\\\":\\\"\\\",\\\"url\\\":\\\"\\\"}\",\"brazeUnviewedCardCount\":\"0\",\"brazeContentCards\":\"[]\",\"smarticoUserState\":\"{\\\"ach_points_ever\\\":5,\\\"core_public_tags\\\":[],\\\"ach_level_current_id\\\":339,\\\"user_country\\\":\\\"UA\\\",\\\"core_inbox_unread_count\\\":0,\\\"ach_points_balance\\\":5,\\\"core_user_language\\\":\\\"EN\\\",\\\"ach_level_current\\\":\\\"15 Free Spins\\\",\\\"user_last_session_push_state\\\":\\\"BROWSER_NOT_SUPPORTED\\\",\\\"core_registration_date\\\":1654793030079,\\\"core_is_test_account\\\":false,\\\"ach_gamification_in_control_group\\\":false,\\\"avatar_id\\\":\\\"21889173\\\",\\\"public_username\\\":\\\"chippy\\\"}\",\"smarticoLoading\":\"false\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "__smartico_identify_last_hash",
+          "value": "Chippy:null:{}"
+        },
+        {
+          "name": "persist:wallet",
+          "value": "{\"balanceIsShowed\":\"true\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:auth",
+          "value": "{\"token\":\"null\",\"uuid\":\"null\",\"sessionUUID\":\"null\",\"signupLoading\":\"false\",\"accessBlockedUntilTime\":\"0\",\"shouldExecuteRecaptcha\":\"false\",\"betbyDataLoading\":\"false\",\"betbyData\":\"{\\\"brandId\\\":\\\"2120859236199174144\\\",\\\"JWT\\\":null}\",\"sumsubData\":\"{\\\"accessToken\\\":\\\"\\\",\\\"loading\\\":false}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_cvfpec",
+          "value": "HORM42E00D141CEA5E28307DAF69EA6C"
+        },
+        {
+          "name": "__smartico_device_id",
+          "value": "8bed7132-8b8e-40ac-ae04-a41d9f4044f0"
+        },
+        {
+          "name": "AMP_unsent_cb7e47345e",
+          "value": "[{\"device_id\":\"fb234449-e03d-4c2a-968a-3f78772ed13f\",\"session_id\":1710328881936,\"time\":1710328900593,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"b32b2b49-1ec1-4f97-8af1-861b538bea7d\",\"event_type\":\"[FE] Click-LoginButton-MainHeader\",\"event_properties\":{\"event_type\":\"[FE] Click-LoginButton-MainHeader\",\"event_properties\":{\"country_code\":\"SG\",\"user_locale\":\"en\",\"event_source\":\"bluechip web desktop\"},\"user_properties\":{\"country_code\":\"SG\"}},\"event_id\":5,\"library\":\"amplitude-ts/2.3.3\",\"user_agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"},{\"device_id\":\"fb234449-e03d-4c2a-968a-3f78772ed13f\",\"session_id\":1710328881936,\"time\":1710328900612,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"39b4a287-e0e9-4240-bc1b-d16c16547a5c\",\"event_type\":\"[FE] Show-LoginForm\",\"event_properties\":{\"event_type\":\"[FE] Show-LoginForm\",\"event_properties\":{\"country_code\":\"SG\",\"user_locale\":\"en\",\"event_source\":\"bluechip web desktop\"},\"user_properties\":{\"country_code\":\"SG\"}},\"event_id\":6,\"library\":\"amplitude-ts/2.3.3\",\"user_agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"},{\"device_id\":\"fb234449-e03d-4c2a-968a-3f78772ed13f\",\"session_id\":1710328881936,\"time\":1710328900811,\"platform\":\"Web\",\"language\":\"en-US\",\"ip\":\"$remote\",\"insert_id\":\"a1697fcf-f51b-42d5-8f15-267426ec3935\",\"event_type\":\"[FE] Click-LoginButton-LoginForm\",\"event_properties\":{\"event_type\":\"[FE] Click-LoginButton-LoginForm\",\"event_properties\":{\"country_code\":\"SG\",\"user_locale\":\"en\",\"event_source\":\"bluechip web desktop\"},\"user_properties\":{\"country_code\":\"SG\"}},\"event_id\":7,\"library\":\"amplitude-ts/2.3.3\",\"user_agent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"}]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "ZmhkZjZyMThleXNrMQ=="
+        }
+      ]
+    }
+  ]
+}
