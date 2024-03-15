@@ -1,0 +1,390 @@
+{
+  "cookies": [
+    {
+      "name": "INGRESSCOOKIE",
+      "value": "1710329323.094.27.765784|3441ec1aa9342998970d396d8e7f98b5",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1710502122.471683,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_locale",
+      "value": "in-en",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1713007722.472072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "user_is_logged",
+      "value": "false",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1713007725.921735,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_MKTG_cb7e47345e",
+      "value": "JTdCJTdE",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1741865329,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1159787552.1710329331",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710415730,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "initialTrafficSource",
+      "value": "utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1713439730,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__utmzzses",
+      "value": "1",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_UA-227424672-1",
+      "value": "1",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710329390,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AMP_cb7e47345e",
+      "value": "JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjJhOWEzMzc0OC0wNDc2LTRkZjAtYTE3OS1mZmE3MmU0OWFlYWYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzEwMzI5MzI5NjkwJTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTcxMDMyOTMzMTM2NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBNCU3RA==",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1741865331,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_id",
+      "value": "83b1ee22-00e3-429c-8f62-51dd90afe2ac",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": 1744889331.454198,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_create_t",
+      "value": "1710329331454",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__smartico_ls_use_t",
+      "value": "1710329331454",
+      "domain": "bluechip.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AWSALBTGCORS",
+      "value": "etkSqR5sabJWmNoX2AAiejlpU2CYeyIso5C2QZZM5Xjwk4QLkBE2B9CTv9wYKCByckRe8iEQ6tsaav8iAxrDBiotXA1J9YaWbPinTefPcg5b472h8YuW2t81WzVjiGTeHgZEqvPQnusLVty3J14gyBz5+u7Ix9XbYaSufMdTRxXx",
+      "domain": "api.smartico.ai",
+      "path": "/",
+      "expires": 1710934133.064625,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AWSALBCORS",
+      "value": "14y5967MtAUytliNG/F9WEizlDrhWr24SwPv5tCb+3FDPZj+VBuJFdB+gAqADTXv/n+x93bStBx6XWNFe3lMtBg8gQl0iAzB6uKz5A3it4KbymTKUMTyd3gGBzIv",
+      "domain": "api.smartico.ai",
+      "path": "/",
+      "expires": 1710934133.064682,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid",
+      "value": "bc6bf516-90a5-4f26-91a2-f692fde4a44e",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818563,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1710329333",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.475049,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid_lu",
+      "value": "1710329333",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818621,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_EM22E96TGD",
+      "value": "GS1.1.1710329333.1.0.1710329333.0.0.0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744889333.729362,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1272621263.1710329331",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744889336.711436,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "zuuid_k",
+      "value": "1",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818643,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "zuuid_k_lu",
+      "value": "1710329333",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818658,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bss",
+      "value": "!bidswitch,479586533",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818674,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cm4",
+      "value": "!bidswitch,479658533",
+      "domain": ".sportradarserving.com",
+      "path": "/",
+      "expires": 1741865333.818688,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_srt_ses.cd98",
+      "value": "*",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1710331135,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_srt_id.cd98",
+      "value": "ac1a42b3-0092-418a-acac-f2f58fc7e4b8.1710329336.1.1710329336..2e9e8f60-164f-454f-8a67-da1a9e8ed14c....0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744889335.551695,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "c",
+      "value": "1710329336",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741865336.626405,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid_lu",
+      "value": "1710329336",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741865336.955493,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tuuid",
+      "value": "6c462aa7-81a8-4dc3-bea6-9b7fa7ec2abb",
+      "domain": ".bidswitch.net",
+      "path": "/",
+      "expires": 1741865336.955458,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_7Q8ZMQJCT2",
+      "value": "GS1.1.1710329336.1.0.1710329336.60.0.0",
+      "domain": ".bluechip.io",
+      "path": "/",
+      "expires": 1744889336.711197,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".adnxs.com",
+      "path": "/",
+      "expires": 1744889338.033423,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stx_user_id",
+      "value": "da24c23e-9e52-4c00-b4b6-ba45ff9387d2",
+      "domain": ".sharethrough.com",
+      "path": "/",
+      "expires": 1712921338.133353,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uid",
+      "value": "bb72546a-ebee-454c-aceb-c333faa57351",
+      "domain": ".ad-stir.com",
+      "path": "/",
+      "expires": 1741865338.204632,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "d10000",
+      "value": "6c462aa7-81a8-4dc3-bea6-9b7fa7ec2abb",
+      "domain": ".ad-stir.com",
+      "path": "/",
+      "expires": 1711538938.204715,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://bluechip.io",
+      "localStorage": [
+        {
+          "name": "__smartico_login_tracker1",
+          "value": "{\"dt\":1710329333936,\"ext_user_id\":\"Chippy\"}"
+        },
+        {
+          "name": "__smartico_identify_last_time",
+          "value": "1710329333499"
+        },
+        {
+          "name": "amp-exp-$default_instance-n2WHnS",
+          "value": "{\"app-popup\":{\"key\":\"hide\"},\"restrict-game-wager\":{\"key\":\"active\"},\"show-sidebar-casino-datetime\":{\"key\":\"show\"}}"
+        },
+        {
+          "name": "persist:profile",
+          "value": "{\"data\":\"null\",\"balance\":\"null\",\"brandTermsUuid\":\"\\\"\\\"\",\"playerAcceptedTermsUuid\":\"\\\"\\\"\",\"lastPublicTermsUuid\":\"\\\"\\\"\",\"emailVerificationCountdownStart\":\"0\",\"phoneVerificationCountdownStart\":\"0\",\"verificationCountDownDuration\":\"180000\",\"avatar\":\"{\\\"title\\\":\\\"\\\",\\\"id\\\":\\\"\\\",\\\"url\\\":\\\"\\\"}\",\"brazeUnviewedCardCount\":\"0\",\"brazeContentCards\":\"[]\",\"smarticoUserState\":\"{\\\"ach_points_ever\\\":5,\\\"core_public_tags\\\":[],\\\"ach_level_current_id\\\":339,\\\"user_country\\\":\\\"UA\\\",\\\"core_inbox_unread_count\\\":0,\\\"ach_points_balance\\\":5,\\\"core_user_language\\\":\\\"EN\\\",\\\"ach_level_current\\\":\\\"15 Free Spins\\\",\\\"user_last_session_push_state\\\":\\\"BROWSER_NOT_SUPPORTED\\\",\\\"core_registration_date\\\":1654793030079,\\\"core_is_test_account\\\":false,\\\"ach_gamification_in_control_group\\\":false,\\\"avatar_id\\\":\\\"21889173\\\",\\\"public_username\\\":\\\"chippy\\\"}\",\"smarticoLoading\":\"false\",\"_persist\":\"{\\\"version\\\":1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "__smartico_identify_last_hash",
+          "value": "Chippy:null:{}"
+        },
+        {
+          "name": "persist:wallet",
+          "value": "{\"balanceIsShowed\":\"true\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "persist:auth",
+          "value": "{\"token\":\"null\",\"uuid\":\"null\",\"sessionUUID\":\"null\",\"signupLoading\":\"false\",\"accessBlockedUntilTime\":\"0\",\"shouldExecuteRecaptcha\":\"false\",\"betbyDataLoading\":\"false\",\"betbyData\":\"{\\\"brandId\\\":\\\"2120859236199174144\\\",\\\"JWT\\\":null}\",\"sumsubData\":\"{\\\"accessToken\\\":\\\"\\\",\\\"loading\\\":false}\",\"_persist\":\"{\\\"version\\\":-1,\\\"rehydrated\\\":true}\"}"
+        },
+        {
+          "name": "_cvfpec",
+          "value": "horm42e00d141cea5e28307daf69ea6c"
+        },
+        {
+          "name": "__smartico_device_id",
+          "value": "a1a59d9d-cece-4071-bb3e-7b51f531bd9a"
+        },
+        {
+          "name": "AMP_unsent_cb7e47345e",
+          "value": "[]"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "NmlmcTV5MTlyM3JrMA=="
+        }
+      ]
+    }
+  ]
+}
