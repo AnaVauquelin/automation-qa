@@ -10,7 +10,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '14'
-    #   - name: Install dependencies
+    #   - name: Install dependencies (test)
     #     run: npm ci
     #   - name: Install Playwright
     #     run: npx playwright install --with-deps
