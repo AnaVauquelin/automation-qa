@@ -24,6 +24,7 @@
     "typescript": "^5.4.2"
   },
   "dependencies": {
-    "eslint-plugin-playwright": "^1.5.2"
+    "eslint-plugin-playwright": "^1.5.2",
+    "package-lock.json": "^1.0.0"
   }
 }
