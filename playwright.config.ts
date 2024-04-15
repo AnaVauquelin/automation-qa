@@ -21,7 +21,11 @@ export default defineConfig({
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
+<<<<<<< HEAD
   reporter: [["html"], ["allure-playwright", {outputFolder: 'test-results'}]],
+=======
+  reporter: [["html"], ["allure-playwright"]],
+>>>>>>> 15b3343 (Added e2e workflow file)
 
   //globalSetup: require.resolve('./utils/global-setup'), //NOT WORKING
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
@@ -41,7 +45,11 @@ export default defineConfig({
     {
       name: 'chromium',
       use: { ...devices['Desktop Chrome'],
+<<<<<<< HEAD
       //headless:false
+=======
+      headless:false
+>>>>>>> 15b3343 (Added e2e workflow file)
     }
 
   },
